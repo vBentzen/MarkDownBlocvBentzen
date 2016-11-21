@@ -1,0 +1,26 @@
+Hello, here is some wake up reading. Looking forward to work with you <br>-Aske 
+
+ # Simple Markdown
+*By Me*
+
+
+## Why did i choose [Bloc](http://www.bloc.io)?
+
+in the last few years i really wanted to get into **programming** and doing it as my living. I’ve tried codeschool/few others here and there, but i have always really had a hard time to make use of it all.  When to use 1 code over another, and how to make use of all the different components and languages to make a product from 0-100.  
+
+*I am really hoping that Bloc can help me get the full stack knowledge i want. To understand a topic to the point, i can sit down and create something and know where to start and finish.*
+
+
+### You as my mentor
+
+I really hope you as my mentor can help me develop the the skills i need.
+The guidance and help to push me towards the right road to become a confident developer, who is able to write beautiful code and maintain a living doing so.
+
+#### Goals 
+
+- Being able to create webpages from start to end.
+- Be confident enough to create from scratch, and know how to.
+- Being able to switch my career to being either freelancer or working as developer somewhere awesome.
+- Drink lots of coffee while learning the coding skills and **mastering** them
+
+##### *Looking forward to this.*
